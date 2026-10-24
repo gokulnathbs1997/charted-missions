@@ -1,0 +1,74 @@
+{
+  "method": "UV atlas clipping of metal door region; connected vertical patches become hinged panels. Original meshes and UVs retained outside door region.",
+  "perDistrict": [
+    {
+      "building": "Building_4_Buildings_0",
+      "doorPanels": 3,
+      "sourceTriangles": 148,
+      "retainedWallTriangles": 214
+    },
+    {
+      "building": "Building_2_Buildings_0",
+      "doorPanels": 3,
+      "sourceTriangles": 146,
+      "retainedWallTriangles": 184
+    },
+    {
+      "building": "Building_1_Buildings_0",
+      "doorPanels": 3,
+      "sourceTriangles": 146,
+      "retainedWallTriangles": 200
+    },
+    {
+      "building": "Building_5_Buildings_0",
+      "doorPanels": 1,
+      "sourceTriangles": 200,
+      "retainedWallTriangles": 230
+    },
+    {
+      "building": "Building_3_Buildings_0",
+      "doorPanels": 2,
+      "sourceTriangles": 266,
+      "retainedWallTriangles": 290
+    },
+    {
+      "building": "Building_6_Buildings_0",
+      "doorPanels": 4,
+      "sourceTriangles": 212,
+      "retainedWallTriangles": 272
+    },
+    {
+      "building": "Building_2.001_Buildings_0",
+      "doorPanels": 3,
+      "sourceTriangles": 146,
+      "retainedWallTriangles": 184
+    },
+    {
+      "building": "Building_6.001_Buildings_0",
+      "doorPanels": 4,
+      "sourceTriangles": 212,
+      "retainedWallTriangles": 272
+    },
+    {
+      "building": "Building_6.002_Buildings_0",
+      "doorPanels": 4,
+      "sourceTriangles": 212,
+      "retainedWallTriangles": 272
+    },
+    {
+      "building": "Building_5.001_Buildings_0",
+      "doorPanels": 1,
+      "sourceTriangles": 200,
+      "retainedWallTriangles": 230
+    },
+    {
+      "building": "Building_4.001_Buildings_0",
+      "doorPanels": 3,
+      "sourceTriangles": 148,
+      "retainedWallTriangles": 214
+    }
+  ],
+  "totalDoorPanelsPerDistrict": 31,
+  "districts": 25,
+  "totalDoorPanels": 775
+}

@@ -1,0 +1,13 @@
+{
+  "name": "charted-missions",
+  "version": "9.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 start.py",
+    "online": "node server/server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
